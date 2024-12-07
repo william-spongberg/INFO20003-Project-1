@@ -8,4 +8,4 @@ Analysed a given business case and designed Conceptual ER Model in Chen’s nota
 
 Find the assignment details [here](INFO20003-2023S2-A1-TicketSwift.pdf)
 
-Find my report [here](Assignment 1.docx)
+Find my submission [here](Assignment-1.docx)
